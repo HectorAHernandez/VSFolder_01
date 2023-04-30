@@ -14,6 +14,6 @@ def fibonacci(n):
 if numTerms <= 0:
     print(f"Please enter a positive number")
 else:
-    print(f"Fibonacci serie:")
+    print(f"Fibonacci series:")
     for i in range(numTerms):
         print(fibonacci(i))
