@@ -2,7 +2,7 @@ print("This is my python printing")
 print("fabulous")
 print("print python")
 
-# using a recurisve approach
+# using a recursive approach
 numTerms = int(input("How many terms of Fibonacci sequence to print? "))
 
 def fibonacci(n):
